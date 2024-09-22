@@ -38,7 +38,7 @@ This project implements an Electrocardiography (ECG) system to record and monito
 ### ECG Output
 (![Screenshot 2024-05-03 212028](https://github.com/user-attachments/assets/243a8f9d-d621-4d93-aad8-dc2f03d408dc))
 
-The output shows a clear ECG signal with visible P waves, QRS complexes, and T waves, which are crucial for diagnosing various heart conditions.
+The output (Green wave) shows a clear ECG signal with visible P waves, QRS complexes, and T waves, which are crucial for diagnosing various heart conditions.
 
 ---
 
