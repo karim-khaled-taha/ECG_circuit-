@@ -26,7 +26,7 @@ This project implements an Electrocardiography (ECG) system to record and monito
 - High-pass, Low-pass, and Notch Filters
 - Non-inverting amplifier
 - Multiplexer for lead selection
-
+- Microcontroller for control of wave (Arduino)
 
 ### Filters Specifications:
 - **High-Pass Filter**: 0.05 Hz cutoff, 3rd order (2 active, 1 passive)
