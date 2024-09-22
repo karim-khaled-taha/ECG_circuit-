@@ -26,7 +26,6 @@ This project implements an Electrocardiography (ECG) system to record and monito
 - High-pass, Low-pass, and Notch Filters
 - Non-inverting amplifier
 - Multiplexer for lead selection
--    [Uploading lead_selector.ino…]()
 
 
 ### Filters Specifications:
