@@ -26,6 +26,8 @@ This project implements an Electrocardiography (ECG) system to record and monito
 - High-pass, Low-pass, and Notch Filters
 - Non-inverting amplifier
 - Multiplexer for lead selection
+-    [Uploading lead_selector.ino…]()
+
 
 ### Filters Specifications:
 - **High-Pass Filter**: 0.05 Hz cutoff, 3rd order (2 active, 1 passive)
@@ -40,16 +42,3 @@ This project implements an Electrocardiography (ECG) system to record and monito
 
 The output (Green wave) shows a clear ECG signal with visible P waves, QRS complexes, and T waves, which are crucial for diagnosing various heart conditions.
 
----
-
-## How to Run
-
-1. **Assemble the Circuit**: Follow the circuit diagram to connect all components.
-2. **Upload the Code**: Use an Arduino to interface with the circuit and process the ECG signals.
-3. **Monitor Output**: Use serial plotting tools to visualize the ECG waveform on your computer.
-
----
-
-## Future Improvements
-- Implement a wireless ECG transmission system.
-- Add real-time heart condition diagnostics.
