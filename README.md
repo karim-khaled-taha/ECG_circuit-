@@ -17,7 +17,7 @@ This project implements an Electrocardiography (ECG) system to record and monito
 ---
 
 ## Circuit Design
-[Screenshot 2024-09-19 233545](https://github.com/user-attachments/assets/7ae1cf6b-abb1-4a7e-a2c9-084bf38e674d)
+![Screenshot 2024-09-19 233545](https://github.com/user-attachments/assets/7ae1cf6b-abb1-4a7e-a2c9-084bf38e674d)
 
 ### Components Used:
 - Electrodes (Dry surface electrodes)
